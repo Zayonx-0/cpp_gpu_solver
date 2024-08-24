@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MyProject.dir/main.cpp.o -o MyProject  /usr/lib/x86_64-linux-gnu/libOpenCL.so /mnt/s/GPU_SOLVER_CPP/vcpkg/installed/x64-linux/debug/lib/libcurl-d.a /mnt/s/GPU_SOLVER_CPP/vcpkg/installed/x64-linux/lib/libssl.a /mnt/s/GPU_SOLVER_CPP/vcpkg/installed/x64-linux/lib/libcrypto.a -ldl /mnt/s/GPU_SOLVER_CPP/vcpkg/installed/x64-linux/lib/libz.a

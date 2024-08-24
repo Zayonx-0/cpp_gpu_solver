@@ -1,0 +1,3 @@
+/mnt/s/GPU_SOLVER_CPP/build/CMakeFiles/MyProject.dir
+/mnt/s/GPU_SOLVER_CPP/build/CMakeFiles/edit_cache.dir
+/mnt/s/GPU_SOLVER_CPP/build/CMakeFiles/rebuild_cache.dir
